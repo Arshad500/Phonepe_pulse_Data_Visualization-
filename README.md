@@ -140,9 +140,7 @@ To retrieve the data from the MySQL database, I have used the "mysql-connector-p
 In conclusion, this project demonstrates how Python libraries can be used to extract, transform, and visualize data from 
 the Phonepe Pulse GitHub repository. The resulting dashboard provides valuable insights and information about the data in 
 the Phonepe Pulse GitHub repository, making it a valuable tool for data analysis and decision-making in the fintech domain.
-To run this project, the user needs to clone the GitHub repository and install the necessary libraries. The project can be
- run using the command "streamlit run app.py" in the command prompt or terminal. The user can then access the dashboard 
-from a web browser and easily navigate the different visualizations and facts and figures displayed.
+To run this project, the user needs to clone the GitHub repository and install the necessary libraries. .
 
 The project can be run using the command "streamlit run phonepe_main.py" in the command prompt or terminal. The user can then access 
 the dashboard from a web browser and easily navigate the different visualizations and facts and figures displayed.
